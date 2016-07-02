@@ -1,5 +1,4 @@
 package Beta;
-import Alpha.*;
 
 
 public class Rabbit {
